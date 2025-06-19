@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 sᴏɴᴀʟɪ ᴍᴜsɪᴄ ʙᴏᴛ 」──
+    ──「 𝐃𝐄𝐕𝐈𝐋_𝐗_𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓 」──
 <a href="https://www.youtube.com/watch?v=dQw4w9WgcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  
